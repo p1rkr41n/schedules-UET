@@ -24,6 +24,6 @@ exec(open('processing.py').read())
 
 #open demo
 
-os.system("G:\Code\schedules\out.xlsx")
+os.system("\out.xlsx")
 #Check end
 #print ('===Successfull main.py===')
