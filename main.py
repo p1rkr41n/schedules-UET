@@ -17,7 +17,6 @@ exec(open('frame.py').read())
 
 exec(open('copyRaw.py').read())
 #Process main
-print ('You have 10 seconds to pee!!!!')
 exec(open('processing.py').read())
 print ('You have 10 seconds to pee!!!!')
 exec(open('processing.py').read())
