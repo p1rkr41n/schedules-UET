@@ -22,9 +22,7 @@ i = 0
 while (worksheet[col_stt].value is not None ):
     i= i+1
     col_stt = 'A' +  str(i+1)
-    print(col_stt)
     cell_null = worksheet[col_stt].value
-    print(cell_null)
 num_les=i+1
 
 #2 get timeline
