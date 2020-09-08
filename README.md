@@ -1,4 +1,4 @@
-# -S-chedules-UET ver1.0.0
+# -S-chedules-UET ver.DEMO
 <p>
 <br />Made by -S-TeaM
 <br />Language: Python 3.8
